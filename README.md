@@ -1,6 +1,6 @@
 # All Restaurants in Hillsboro, Oregon, US
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `506917` |
 | Location | Hillsboro |
 | Category | Restaurants |
-| Full dataset size | 389 records |
-| Free sample size | 38 records (9.77%) |
-| Last export | 2026-04-07T12:19:15.349523+00:00 |
+| Full dataset size | 367 records |
+| Free sample size | 36 records (9.81%) |
+| Last export | 2026-04-14T12:11:34.350350+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hillsboro-oregon-us-sample-506917/releases/download/sample-latest/beamstation_506917_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
