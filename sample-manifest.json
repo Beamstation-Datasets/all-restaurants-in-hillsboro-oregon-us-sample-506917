@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d939b244-b30c-4f06-aabf-69028a7c2d3f",
+  "export_job_id": "0145198e-f675-4e03-9e4f-8561187a0d0f",
   "id_short": 506917,
-  "published_at": "2026-04-13T19:06:32Z",
+  "published_at": "2026-04-17T07:49:41Z",
   "repo_name": "all-restaurants-in-hillsboro-oregon-us-sample-506917",
   "sample_asset_name": "beamstation_506917_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/506917/beamstation_506917_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 38,
-  "sample_sha256": "3bb4f835b253618505ce7be19430ea0080bd37b5e936072d2b5c8b1503576317",
-  "sample_size_bytes": 159048,
-  "total_records": 389
+  "sample_records": 36,
+  "sample_sha256": "790dc4a9c2392d1516934e209233d9c1eedf36dcc096e3cb3ecd283b70ad6c80",
+  "sample_size_bytes": 127713,
+  "total_records": 367
 }
